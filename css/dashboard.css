@@ -47,7 +47,7 @@ div#header div.title {
     color: #fff;
     font-size: 50px;
     font-weight: 400;
-    text-align: center;
+    text-align: left;
     text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
     margin-top: 150px;
 }
