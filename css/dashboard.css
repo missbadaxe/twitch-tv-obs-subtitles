@@ -200,10 +200,10 @@ div#video-tutorial {
 div#video-tutorial div.content {
     display: flex;
     flex-wrap: wrap;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-    align-content: center;
+    text-align: left;
+    align-items: left;
+    justify-content: left;
+    align-content: left;
 }
 div#video-tutorial div.content div {
     flex: 1;
