@@ -28,10 +28,10 @@ div#subtitle {
     display: flex;
     flex-direction: column;
     flex-flow: column wrap;
-    align-items: center;
-    justify-content: center;
-    align-content: center;
-    text-align: center;
+    align-items: left;
+    justify-content: left;
+    align-content: left;
+    text-align: left;
     width: 100vw;
     height: 100vh;
 }
